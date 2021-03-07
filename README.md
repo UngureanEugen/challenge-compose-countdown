@@ -1,17 +1,20 @@
-# Put title of your app here
+# Countdown Timer 
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/UngureanEugen/challenge-compose-countdown/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+Simple countdown timer.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+There is an animation for drawing hours, minutes, seconds circles. Also there is an animation when reset button
+is pressed. The timer is implemented by flow. 
 
 
 ## :camera_flash: Screenshots
